@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5432012320087496082
+  m_GuidHigh: 13291703603579495601
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5349815021241500037
+      m_GuidHigh: 17213426991060453520
+    m_SerializedTextureGuid:
+      m_GuidLow: 11863823518237086783
+      m_GuidHigh: 9339812170753542058
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Sigiriya
+    m_Texture: {fileID: 2800000, guid: f272543fc4a1a4a4aa87a252afad9d81, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4824349809785121204
+      m_GuidHigh: 14329965653953178000
+    m_SerializedTextureGuid:
+      m_GuidLow: 8454540353739492789
+      m_GuidHigh: 8665480424715010139
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: NineArchBridge
+    m_Texture: {fileID: 2800000, guid: 5bd90db58fa875545b403ddb88f84178, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5284594781359137696
+      m_GuidHigh: 14343014505761935801
+    m_SerializedTextureGuid:
+      m_GuidLow: 14471459510128596021
+      m_GuidHigh: 15868674385265219864
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Ambuluwawa
+    m_Texture: {fileID: 2800000, guid: 5aa9d435f3c0c8d418d9120e47db38dc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5693627966831693547
+      m_GuidHigh: 14294051665171208855
+    m_SerializedTextureGuid:
+      m_GuidLow: 6486377975203587820
+      m_GuidHigh: 11687271916236033961
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SriPada
+    m_Texture: {fileID: 2800000, guid: f2ed66ec3e665a04a9cfa5d0e28731a2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5559479140097583066
+      m_GuidHigh: 16181892223912218293
+    m_SerializedTextureGuid:
+      m_GuidLow: 12782559320368602352
+      m_GuidHigh: 258311926533473835
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: RuwanweliMahaSeya
+    m_Texture: {fileID: 2800000, guid: 1aeddcf0c5fab1642b46461e54b59503, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5097129925433100720
+      m_GuidHigh: 8619095434054306181
+    m_SerializedTextureGuid:
+      m_GuidLow: 6414468328287431766
+      m_GuidHigh: 8319643266083251323
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: KelaniyaRajaMahaViharaya
+    m_Texture: {fileID: 0}
